@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1896</width>
+    <height>884</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>-110</y>
+     <width>1920</width>
+     <height>1040</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(16,16,16,255);
+border-radius:20px;
+</string>
+   </property>
+   <widget class="QLineEdit" name="tb3">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>380</y>
+      <width>751</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgba(47,49,52,200);
+color:rgb(225,225,225,225);
+border-radius:2px;
+padding-left:10px;
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,225);
+padding-bottom:3px;
+</string>
+    </property>
+    <property name="placeholderText">
+     <string>Enter The UserName</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="tb4">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>460</y>
+      <width>751</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgba(47,49,52,200);
+color:rgb(225,225,225,225);
+border-radius:2px;
+padding-left:10px;
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,225);
+padding-bottom:3px;
+</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string>Enter Password</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b3">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>700</y>
+      <width>461</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#b3{
+background-color:rgb(255,191,16);
+color:rgb(135,60,0);
+border-radius:5px;
+}
+QPushButton#b3:pressed{
+background-color:rgb(255,255,16);
+
+}</string>
+    </property>
+    <property name="text">
+     <string>R e g i s t e r</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>870</x>
+      <y>140</y>
+      <width>171</width>
+      <height>211</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>100</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(251,191,16);</string>
+    </property>
+    <property name="text">
+     <string></string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="tb5">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>540</y>
+      <width>751</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgba(47,49,52,200);
+color:rgb(225,225,225,225);
+border-radius:2px;
+padding-left:10px;
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,225);
+padding-bottom:3px;
+</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Normal</enum>
+    </property>
+    <property name="placeholderText">
+     <string>Enter Email</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="tb6">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>620</y>
+      <width>751</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:rgba(47,49,52,200);
+color:rgb(225,225,225,225);
+border-radius:2px;
+padding-left:10px;
+border:1px solid rgba(0,0,0,0);
+border-bottom-color:rgba(46,82,101,225);
+padding-bottom:3px;
+</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Normal</enum>
+    </property>
+    <property name="placeholderText">
+     <string>Enter Phone Number</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>880</x>
+      <y>800</y>
+      <width>161</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color:rgb(255,191,16);</string>
+    </property>
+    <property name="text">
+     <string>Already Registered</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="b4">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>860</y>
+      <width>461</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton#b4{
+background-color:rgb(255,191,16);
+color:rgb(135,60,0);
+border-radius:5px;
+}
+QPushButton#b4:pressed{
+background-color:rgb(255,255,16);
+
+}</string>
+    </property>
+    <property name="text">
+     <string>L o g i n  N o w</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
