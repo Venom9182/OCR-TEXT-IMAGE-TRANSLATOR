@@ -33,7 +33,9 @@ You can just turn it on and speak, It will automatically type the text in the Te
 
 Don't need to type everything or just use mic ... We also got solution to your multiple paragraph problems. 
 You can just uplaod the .txt file it will automatically extract the text from it and it will show in the TextBox
-![image](https://user-images.githubusercontent.com/85027477/176687294-765082cf-4652-4cb9-b3f2-86b670e55416.png)
+
+![image](https://user-images.githubusercontent.com/85027477/180707386-d4fad45e-297a-4143-aed5-a6bc352ed990.png)
+
 
 
 
