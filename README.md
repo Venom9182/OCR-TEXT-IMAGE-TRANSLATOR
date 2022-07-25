@@ -20,7 +20,8 @@ Don't have account ? You can register yourself and create your own account just 
 
 
 You can type your text manually or you can just upload your text file.
-![image](https://user-images.githubusercontent.com/85027477/176686629-519fbbf4-f8d1-496f-b701-bdb54606be43.png)
+![image](https://user-images.githubusercontent.com/85027477/180706823-445aa3ee-df5a-46db-ab66-e8c126dae889.png)
+
 
 
 
@@ -37,7 +38,7 @@ You can just uplaod the .txt file it will automatically extract the text from it
 
 
 Struggling to translate the whole image? We got our new image translator. This can just convert the whole image into your desired language.
-Our new image translator will convert the image and it will display the translated image.
+
 ![image](https://user-images.githubusercontent.com/85027477/176686787-fba5ff92-1160-4e8b-a1ac-e14bd27152e8.png)
 
 
