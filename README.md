@@ -39,6 +39,7 @@ You can just uplaod the .txt file it will automatically extract the text from it
 
 Struggling to translate the whole image? We got our new image translator. This can just convert the whole image into your desired language.
 
-![image](https://user-images.githubusercontent.com/85027477/176686787-fba5ff92-1160-4e8b-a1ac-e14bd27152e8.png)
+![image](https://user-images.githubusercontent.com/85027477/180707000-da2a4183-5f21-4937-8c6d-d30eefad11b6.png)
+
 
 
