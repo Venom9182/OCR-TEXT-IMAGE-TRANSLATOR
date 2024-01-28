@@ -1,13 +1,10 @@
 # Ocr-text-Translator
 
-It’s tough to translate any language on your own in this world with multiple languages.. 
-We translate text using google. We can  just copy and paste but we can’t upload a whole folder of multiple pages 
-or can translate text from an image.The term “Translator” simply means translating any language to another.
-All people on earth are divided by their cultures, and language is a particular feature that makes us so different from each other. 
+Navigating the multilingual landscape can be a daunting task in our diverse world. While many turn to Google for text translation, the process becomes cumbersome when dealing with extensive content, such as entire folders or multiple pages. Furthermore, the inability to seamlessly translate text from images adds a layer of complexity.
 
-Unlike other translation application, we provide the option to upload the .txt file as well as image file.
-The difference between others and our application is the ability to translate the image and provide the translation in the image file as well as txt file.
+The term "Translator" encompasses the art of converting one language into another, a task that bridges the cultural gaps that inherently separate the people of the world. Language, being a unique characteristic, accentuates the distinctions among various cultures.
 
+Distinguishing itself from other translation applications, our platform offers a more comprehensive approach. Users not only have the convenience of uploading .txt files but can also effortlessly translate text from image files. This key feature allows for translations to be embedded directly into image files, offering a seamless integration of visual and textual translation outputs.
 
 
 Before starting with the translator, let's login the details of the user to get board into the translation account.
